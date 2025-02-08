@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+gdown
+torch
+numpy
+pandas
+dotline
+ball_hits
+heatmap
+image_ploting
