@@ -4,10 +4,7 @@ import time
 import tempfile
 import cv2
 import gdown  # For downloading models from Google Drive
-from dotline import DotLine
-from ball_hits import BallTracker
-from heatmap import TennisHeatmap
-from image_ploting import ImagePlotter
+
 
 # Set up Streamlit page configuration
 st.set_page_config(page_title="Tennis Analysis App", layout="wide")
